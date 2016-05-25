@@ -1,0 +1,25 @@
+h1
+{
+    color: green;
+    text-align: center;
+    font-family: "Segoe UI";
+    margin: 20px;
+
+}
+
+.table
+{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background-color: aqua;
+
+}
+
+div
+{
+    width: 200px;
+    height: 200px;
+    border:  1px solid black;
+    margin: auto;
+}
