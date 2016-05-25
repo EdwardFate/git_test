@@ -1,4 +1,6 @@
 
+
+
 document.write("<table class='table'>");
 
 var a=1;
